@@ -1,2 +1,2 @@
-# LearnPython
+# LearnPython for DataScience
 Python Repo
